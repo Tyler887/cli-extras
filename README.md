@@ -3,4 +3,4 @@ These are high-level (some of them are low-level, such as `malbolge`) frontend t
 utilities for the terminal.
 
 ## Extras List
-* `malbolge`: A very-low-level (VLL) programming language. **NOTE: This is the least low-level of the tools!**
+* `malbolge`: A very-low-level (VLL) programming language. **NOTE: This is the least high-level of the tools!**
